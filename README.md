@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Fee Business is a social experiment. The feasibility of building a precious super-deflationary asset. Fee is a self-destructing currency, initially with 10 billion Fee Tokens. After each transaction is completed, 1% of the transaction amount Fee will be self-destructed, and no new Fee coins will be minted. The goal of Fee Business is to become a deflationary currency in a decentralized world.
+
+website:http://www.feesbusiness.com/
