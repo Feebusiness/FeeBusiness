@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Feebusiness/FeeBusiness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +15,7 @@ Here are some ideas to get you started:
 -->
 Fee Business is a social experiment. The feasibility of building a precious super-deflationary asset. Fee is a self-destructing currency, initially with 10 billion Fee Tokens. After each transaction is completed, 1% of the transaction amount Fee will be self-destructed, and no new Fee coins will be minted. The goal of Fee Business is to become a deflationary currency in a decentralized world.
 
+
 website:http://www.feesbusiness.com/
+
+Discord:https://discord.gg/JH37hwd68m
